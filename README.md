@@ -1,7 +1,7 @@
 # ✅ 도와줘요 키오스크
 - **2023-2학기 융합캡스톤디자인** 강의에서 진행한 프로젝트입니다.
 - 디지털 취약계층을 위한 **키오스크 학습 서비스**를 제공하는 웹사이트입니다.
-- https://github.com/ssyyoonn/doki-pj
+- https://ssyyoonn.github.io/doki-pj
 
 * * *
 # 서비스 소개
@@ -43,7 +43,7 @@
 
 # 🔍 사용 방법
 #### 1. 배포된 웹사이트를 통해 플레이
-- [웹사이트 바로가기](https://github.com/ssyyoonn/doki-pj)
+- [웹사이트 바로가기](https://ssyyoonn.github.io/doki-pj)
 #### 2. `git clone` 을 사용한 로컬에서의 플레이
 > 1. `git clone 'https://github.com/ssyyoonn/doki-pj.git'`     
 > 2.  `npm install`로 node package 다운로드      
